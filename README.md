@@ -1,2 +1,2 @@
 # Kenya_re_hackathon
-PI undrewritting solution
+PI undrewritting automation proposed solution
